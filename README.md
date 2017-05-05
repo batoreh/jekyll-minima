@@ -1,4 +1,4 @@
-# minima-series-templates
+# jekyll-minima
 a jekyll implementation for blogspot minimal series templates
 
 ## dark serie 
